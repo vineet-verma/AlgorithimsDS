@@ -6,10 +6,12 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 
 /*
-* Given an array A[], write a program that segregates even and odd numbers. The program should put all even numbers first in sorted order, and then odd numbers in sorted order.
+* Given an array A[], write a program that segregates even and odd numbers. The program should put all even numbers first in sorted order,
+*  and then odd numbers in sorted order.
 
 Input:
-The first line of input contains an integer T, denoting the number of test cases. For each testcase there will be two lines of input: The first line contains a single integer N denoting the size of array.
+The first line of input contains an integer T, denoting the number of test cases. For each testcase there will be two lines of input:
+* The first line contains a single integer N denoting the size of array.
 The second line contains N space-separated integers A1, A2, ..., AN denoting the elements of the array.
 
 Output:
